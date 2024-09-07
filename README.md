@@ -9,3 +9,6 @@
 - 👯 I’m looking to collaborate on **Data Analysis & Machine Learning.**
 
 - 📫 How to reach me **manishpatil0400@gmail.com**
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-patil-3b5a8922b/)
