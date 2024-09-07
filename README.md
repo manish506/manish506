@@ -5,4 +5,7 @@
 <h3 align="center">Graduate focusing on AI, ML, and Data Science.</h3>
 
 - 🔭 I’m currently working on **Data Analytics & Machine Learning.**
+  
 - 👯 I’m looking to collaborate on **Data Analysis & Machine Learning.**
+
+- 📫 How to reach me **manishpatil0400@gmail.com**
