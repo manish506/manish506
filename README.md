@@ -30,3 +30,5 @@
 ![Excel](https://img.shields.io/badge/excel-green.svg?style=for-the-badge&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-blue.svg?style=for-the-badge&logo=none&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-blue.svg?style=for-the-badge&logo=none&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-%23008080.svg?style=for-the-badge)
+
